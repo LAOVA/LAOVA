@@ -1,1 +1,1 @@
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=LAOVA&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAOVA&show_icons=true&theme=highcontrast)
